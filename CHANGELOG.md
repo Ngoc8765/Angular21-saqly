@@ -10,3 +10,4 @@
 - docs: link the usage section
 - fix: add a note about the defaults
 - fix: add a note about the defaults
+- docs: add a note about the defaults
